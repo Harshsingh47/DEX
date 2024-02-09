@@ -9,6 +9,7 @@ Run the following commands on terminal
 
 - npx hardhat test (to run the test cases)
 
+To deploy on test network add your wallet private key 
 - npx hardhat run scripts/deploy.js --network sepolia (to deploy on test network)
 if deployed on sepolia network check the status on https://sepolia.etherscan.io/
 
